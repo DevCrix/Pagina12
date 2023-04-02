@@ -1,0 +1,73 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.Pagina1 {
+    width: 300px;
+    height: 600px;
+    background-color: slateblue;
+    border-radius: 15px;
+    margin-top: 10px;
+
+}
+
+.desenho{ 
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-top: 0px;
+}
+
+.text-main{
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.desk{
+    text-align: center;
+    color: white;
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.btn{
+    padding: 10px 15px;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 10px;
+    border: none;
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.btn:hover{ 
+    background-color: rgb(220, 132, 231);
+    color: white;
+}
+
+.button{ 
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+}
+
+.btn2{
+    border-color: rgb(156, 60, 168);
+    padding: 10px 15px;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    display: inline-block;
+
+}
+
+
+
